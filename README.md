@@ -7,4 +7,4 @@ Rodar imagem
 docker run fredferreiraschneider/codeeducation:latest
 
 imagem no docker hub
-link: 
+link: https://hub.docker.com/repository/docker/fredferreiraschneider/codeeducation
